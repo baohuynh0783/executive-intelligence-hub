@@ -17,12 +17,12 @@
 // ============================================================
 
 export const PROSPECTS = {
-  daiviet: {
+  bcp: {
     input: {
-      name: "Cơ khí Chính xác Đại Việt",
-      website: "daiviet-mech.vn",
+      name: "Busines Connecting Platform",
+      website: "bcp.global",
       notes:
-        "Sản xuất linh kiện cơ khí chính xác, ~1.200 nhân sự, 3 nhà máy ở Bình Dương, xuất khẩu Nhật + Hàn. Đang mở rộng công suất; gặp khó ở dữ liệu sản xuất phân tán giữa các nhà máy và dự báo nhu cầu kém chính xác. Có phòng IT nhỏ, đang dùng ERP cũ. Ban lãnh đạo quan tâm tự động hoá và phân tích dữ liệu.",
+        "AI-powered business matching platform that revolutionizes B2B connections through advanced algorithms and verified profiles.",
     },
     prebaked: {
       a1: {
