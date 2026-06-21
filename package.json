@@ -1,0 +1,18 @@
+{
+  "name": "executive-intelligence-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Executive Intelligence Hub - multi-agent prospect intelligence for BCP",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "lucide-react": "^0.408.0",
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
